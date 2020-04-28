@@ -9,20 +9,9 @@
 #include <string.h>
 #pragma comment(lib, "iphlpapi.lib")
 
-#include <rpc.h>
-#include <rpcdce.h>
-#pragma comment(lib, "rpcrt4.lib")
-using namespace std;
-
 
 #include <iostream>
-#include <string>
-#include <cstring>
-#include <atlstr.h>
 #include "Serial.h"
-
-//#include "afxwin.h"
-//#include "pch.h"
 
 
 #pragma warning(disable : 4996)
