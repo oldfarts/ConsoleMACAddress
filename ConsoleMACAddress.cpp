@@ -9,7 +9,6 @@
 #include <string.h>
 #pragma comment(lib, "iphlpapi.lib")
 
-#include <Windows.h>
 #include <rpc.h>
 #include <rpcdce.h>
 #pragma comment(lib, "rpcrt4.lib")
@@ -24,7 +23,7 @@ using namespace std;
 
 //#include "afxwin.h"
 //#include "pch.h"
-#include <windows.h>
+
 
 #pragma warning(disable : 4996)
 
